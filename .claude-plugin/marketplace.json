@@ -5,9 +5,9 @@
   },
   "plugins": [
     {
-      "name": "add-discord",
-      "source": "./plugins/add-discord",
-      "description": "Add Discord bot channel integration to NanoClaw",
+      "name": "nanoclaw-skills",
+      "source": "./plugins/nanoclaw-skills",
+      "description": "Official NanoClaw feature skills — channel integrations, add-ons, and tools",
       "version": "1.0.0"
     }
   ]
